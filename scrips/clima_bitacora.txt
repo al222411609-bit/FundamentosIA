@@ -505,3 +505,644 @@
 [17-09-2026 | 22:19:06] Temp=28.3°C  Hum=53.0%  => Todo estable, sistema apagado
 [17-09-2026 | 22:19:09] Temp=19.1°C  Hum=68.8%  => Todo estable, sistema apagado
 [17-09-2026 | 22:19:12] Temp=21.4°C  Hum=63.2%  => Todo estable, sistema apagado
+[18-09-2026 | 16:33:06] Temp=32.2°C  Hum=51.0%  => Ventilador encendido
+[18-09-2026 | 16:33:10] Temp=27.9°C  Hum=42.3%  => Todo estable, sistema apagado
+[18-09-2026 | 16:33:14] Temp=14.7°C  Hum=43.8%  => Calefacción encendido
+[18-09-2026 | 16:33:18] Temp=31.5°C  Hum=56.7%  => Ventilador encendido
+[18-09-2026 | 16:33:22] Temp=25.2°C  Hum=25.0%  => Humidificador encendido
+[18-09-2026 | 16:33:26] Temp=29.4°C  Hum=68.5%  => Ventilador encendido
+[18-09-2026 | 16:33:30] Temp=35.9°C  Hum=81.0%  => A/C + Deshumidificador encendido
+[18-09-2026 | 16:33:34] Temp=37.4°C  Hum=55.8%  => Ventilador encendido
+[18-09-2026 | 16:33:38] Temp=26.3°C  Hum=85.2%  => Deshumidificador encendido
+[18-09-2026 | 16:33:42] Temp=18.3°C  Hum=46.7%  => Todo estable, sistema apagado
+[18-09-2026 | 16:33:46] Temp=16.7°C  Hum=53.0%  => Calefacción encendido
+[18-09-2026 | 16:33:50] Temp=16.8°C  Hum=50.0%  => Calefacción encendido
+[18-09-2026 | 16:33:54] Temp=31.8°C  Hum=42.3%  => Ventilador encendido
+[18-09-2026 | 16:33:58] Temp=20.1°C  Hum=71.2%  => Todo estable, sistema apagado
+[18-09-2026 | 16:34:02] Temp=17.5°C  Hum=93.8%  => Deshumidificador encendido
+[18-09-2026 | 16:34:07] Temp=21.0°C  Hum=86.8%  => Deshumidificador encendido
+[18-09-2026 | 16:34:11] Temp=36.4°C  Hum=88.1%  => A/C + Deshumidificador encendido
+[18-09-2026 | 16:34:15] Temp=18.0°C  Hum=71.4%  => Todo estable, sistema apagado
+[18-09-2026 | 16:34:19] Temp=33.3°C  Hum=78.5%  => A/C + Deshumidificador encendido
+[18-09-2026 | 16:34:23] Temp=37.3°C  Hum=89.7%  => A/C + Deshumidificador encendido
+[18-09-2026 | 16:34:27] Temp=21.3°C  Hum=86.2%  => Deshumidificador encendido
+[18-09-2026 | 16:34:31] Temp=23.2°C  Hum=54.4%  => Todo estable, sistema apagado
+[18-09-2026 | 16:34:35] Temp=25.8°C  Hum=37.7%  => Todo estable, sistema apagado
+[18-09-2026 | 16:34:39] Temp=26.4°C  Hum=85.0%  => Deshumidificador encendido
+[18-09-2026 | 16:34:43] Temp=12.9°C  Hum=38.4%  => Calefacción encendido
+[18-09-2026 | 16:34:47] Temp=16.4°C  Hum=58.1%  => Calefacción encendido
+[18-09-2026 | 16:34:51] Temp=36.1°C  Hum=63.6%  => Ventilador encendido
+[18-09-2026 | 16:34:53] Temp=32.7°C  Hum=75.0%  => Ventilador encendido
+[18-09-2026 | 16:34:55] Temp=16.6°C  Hum=59.4%  => Calefacción encendido
+[18-09-2026 | 16:34:56] Temp=12.2°C  Hum=26.0%  => Calefacción + Humidificador encendido
+[18-09-2026 | 16:34:59] Temp=22.1°C  Hum=27.5%  => Humidificador encendido
+[18-09-2026 | 16:34:59] Temp=16.0°C  Hum=29.6%  => Calefacción + Humidificador encendido
+[18-09-2026 | 16:35:02] Temp=25.1°C  Hum=40.0%  => Todo estable, sistema apagado
+[18-09-2026 | 16:35:03] Temp=30.9°C  Hum=40.0%  => Ventilador encendido
+[18-09-2026 | 16:35:05] Temp=28.8°C  Hum=29.5%  => Humidificador encendido
+[18-09-2026 | 16:35:07] Temp=16.4°C  Hum=90.7%  => Calefacción + Deshumidificador encendido
+[18-09-2026 | 16:35:08] Temp=34.8°C  Hum=94.1%  => A/C + Deshumidificador encendido
+[18-09-2026 | 16:35:11] Temp=16.1°C  Hum=84.8%  => Calefacción + Deshumidificador encendido
+[18-09-2026 | 16:35:11] Temp=22.4°C  Hum=61.8%  => Todo estable, sistema apagado
+[18-09-2026 | 16:35:14] Temp=22.8°C  Hum=39.2%  => Todo estable, sistema apagado
+[18-09-2026 | 16:35:15] Temp=25.2°C  Hum=90.4%  => Deshumidificador encendido
+[18-09-2026 | 16:35:17] Temp=35.6°C  Hum=51.2%  => Ventilador encendido
+[18-09-2026 | 16:35:19] Temp=21.5°C  Hum=42.9%  => Todo estable, sistema apagado
+[18-09-2026 | 16:35:20] Temp=14.0°C  Hum=53.9%  => Calefacción encendido
+[18-09-2026 | 16:35:23] Temp=29.7°C  Hum=51.7%  => Ventilador encendido
+[18-09-2026 | 16:35:23] Temp=33.3°C  Hum=76.7%  => A/C + Deshumidificador encendido
+[18-09-2026 | 16:35:26] Temp=12.7°C  Hum=26.7%  => Calefacción + Humidificador encendido
+[18-09-2026 | 16:35:27] Temp=34.5°C  Hum=28.8%  => A/C + Humidificador encendido
+[18-09-2026 | 16:35:29] Temp=28.5°C  Hum=55.7%  => Todo estable, sistema apagado
+[18-09-2026 | 16:35:31] Temp=15.4°C  Hum=67.3%  => Calefacción encendido
+[18-09-2026 | 16:35:32] Temp=17.6°C  Hum=94.5%  => Deshumidificador encendido
+[18-09-2026 | 16:35:35] Temp=31.6°C  Hum=43.0%  => Ventilador encendido
+[18-09-2026 | 16:35:35] Temp=17.6°C  Hum=58.9%  => Todo estable, sistema apagado
+[18-09-2026 | 16:35:38] Temp=14.8°C  Hum=75.1%  => Calefacción + Deshumidificador encendido
+[18-09-2026 | 16:35:39] Temp=14.5°C  Hum=85.7%  => Calefacción + Deshumidificador encendido
+[18-09-2026 | 16:35:41] Temp=31.4°C  Hum=61.8%  => Ventilador encendido
+[18-09-2026 | 16:35:43] Temp=17.2°C  Hum=74.4%  => Todo estable, sistema apagado
+[18-09-2026 | 16:35:44] Temp=32.3°C  Hum=76.2%  => A/C + Deshumidificador encendido
+[18-09-2026 | 16:35:47] Temp=31.3°C  Hum=30.7%  => A/C + Humidificador encendido
+[18-09-2026 | 16:35:47] Temp=32.8°C  Hum=47.2%  => Ventilador encendido
+[18-09-2026 | 16:35:50] Temp=19.0°C  Hum=74.0%  => Todo estable, sistema apagado
+[18-09-2026 | 16:35:51] Temp=34.8°C  Hum=79.7%  => A/C + Deshumidificador encendido
+[18-09-2026 | 16:35:53] Temp=17.1°C  Hum=70.0%  => Todo estable, sistema apagado
+[18-09-2026 | 16:35:55] Temp=22.6°C  Hum=29.2%  => Humidificador encendido
+[18-09-2026 | 16:35:56] Temp=16.9°C  Hum=93.1%  => Calefacción + Deshumidificador encendido
+[18-09-2026 | 16:35:59] Temp=23.8°C  Hum=41.3%  => Todo estable, sistema apagado
+[18-09-2026 | 16:35:59] Temp=16.4°C  Hum=77.7%  => Calefacción + Deshumidificador encendido
+[18-09-2026 | 16:36:02] Temp=26.1°C  Hum=54.0%  => Todo estable, sistema apagado
+[18-09-2026 | 16:36:03] Temp=35.3°C  Hum=88.5%  => A/C + Deshumidificador encendido
+[18-09-2026 | 16:36:05] Temp=25.4°C  Hum=58.3%  => Todo estable, sistema apagado
+[18-09-2026 | 16:36:07] Temp=14.5°C  Hum=73.2%  => Calefacción encendido
+[18-09-2026 | 16:36:08] Temp=31.1°C  Hum=28.8%  => A/C + Humidificador encendido
+[18-09-2026 | 16:36:11] Temp=14.9°C  Hum=62.7%  => Calefacción encendido
+[18-09-2026 | 16:36:11] Temp=18.9°C  Hum=69.0%  => Todo estable, sistema apagado
+[18-09-2026 | 16:36:14] Temp=14.2°C  Hum=55.1%  => Calefacción encendido
+[18-09-2026 | 16:36:15] Temp=22.8°C  Hum=60.2%  => Todo estable, sistema apagado
+[18-09-2026 | 16:36:18] Temp=14.8°C  Hum=27.5%  => Calefacción + Humidificador encendido
+[18-09-2026 | 16:36:19] Temp=17.7°C  Hum=76.7%  => Deshumidificador encendido
+[18-09-2026 | 16:36:21] Temp=28.5°C  Hum=77.5%  => Deshumidificador encendido
+[18-09-2026 | 16:36:23] Temp=21.2°C  Hum=63.8%  => Todo estable, sistema apagado
+[18-09-2026 | 16:36:24] Temp=37.6°C  Hum=81.3%  => A/C + Deshumidificador encendido
+[18-09-2026 | 16:36:27] Temp=20.8°C  Hum=88.0%  => Deshumidificador encendido
+[18-09-2026 | 16:36:27] Temp=21.3°C  Hum=76.5%  => Deshumidificador encendido
+[18-09-2026 | 16:36:30] Temp=28.1°C  Hum=87.0%  => Deshumidificador encendido
+[18-09-2026 | 16:36:31] Temp=26.2°C  Hum=42.9%  => Todo estable, sistema apagado
+[18-09-2026 | 16:36:33] Temp=29.5°C  Hum=61.2%  => Ventilador encendido
+[18-09-2026 | 16:36:35] Temp=26.4°C  Hum=66.9%  => Todo estable, sistema apagado
+[18-09-2026 | 16:36:36] Temp=12.7°C  Hum=45.5%  => Calefacción encendido
+[18-09-2026 | 16:36:39] Temp=14.7°C  Hum=39.9%  => Calefacción encendido
+[18-09-2026 | 16:36:39] Temp=14.3°C  Hum=80.1%  => Calefacción + Deshumidificador encendido
+[18-09-2026 | 16:36:42] Temp=26.5°C  Hum=65.4%  => Todo estable, sistema apagado
+[18-09-2026 | 16:36:43] Temp=12.6°C  Hum=65.1%  => Calefacción encendido
+[18-09-2026 | 16:36:45] Temp=32.4°C  Hum=50.0%  => Ventilador encendido
+[18-09-2026 | 16:36:47] Temp=14.4°C  Hum=94.8%  => Calefacción + Deshumidificador encendido
+[18-09-2026 | 16:36:48] Temp=29.0°C  Hum=85.1%  => Deshumidificador encendido
+[18-09-2026 | 16:36:51] Temp=19.7°C  Hum=79.0%  => Deshumidificador encendido
+[18-09-2026 | 16:36:51] Temp=15.7°C  Hum=29.8%  => Calefacción + Humidificador encendido
+[18-09-2026 | 16:36:54] Temp=35.5°C  Hum=27.1%  => A/C + Humidificador encendido
+[18-09-2026 | 16:36:55] Temp=13.2°C  Hum=79.9%  => Calefacción + Deshumidificador encendido
+[18-09-2026 | 16:36:57] Temp=36.1°C  Hum=83.9%  => A/C + Deshumidificador encendido
+[18-09-2026 | 16:36:59] Temp=37.4°C  Hum=37.7%  => Ventilador encendido
+[18-09-2026 | 16:37:00] Temp=17.4°C  Hum=36.4%  => Todo estable, sistema apagado
+[18-09-2026 | 16:37:03] Temp=27.8°C  Hum=91.9%  => Deshumidificador encendido
+[18-09-2026 | 16:37:03] Temp=30.2°C  Hum=41.5%  => Ventilador encendido
+[18-09-2026 | 16:37:06] Temp=14.1°C  Hum=77.1%  => Calefacción + Deshumidificador encendido
+[18-09-2026 | 16:37:07] Temp=33.8°C  Hum=74.5%  => Ventilador encendido
+[18-09-2026 | 16:37:09] Temp=17.1°C  Hum=31.0%  => Humidificador encendido
+[18-09-2026 | 16:37:11] Temp=16.9°C  Hum=80.4%  => Calefacción + Deshumidificador encendido
+[18-09-2026 | 16:37:12] Temp=33.1°C  Hum=78.3%  => A/C + Deshumidificador encendido
+[18-09-2026 | 16:37:14] Temp=25.9°C  Hum=62.7%  => Todo estable, sistema apagado
+[18-09-2026 | 16:37:15] Temp=16.6°C  Hum=88.9%  => Calefacción + Deshumidificador encendido
+[18-09-2026 | 16:37:17] Temp=34.9°C  Hum=55.9%  => Ventilador encendido
+[18-09-2026 | 16:37:18] Temp=30.8°C  Hum=68.2%  => Ventilador encendido
+[18-09-2026 | 16:37:20] Temp=31.2°C  Hum=51.7%  => Ventilador encendido
+[18-09-2026 | 16:37:21] Temp=17.8°C  Hum=81.1%  => Deshumidificador encendido
+[18-09-2026 | 16:37:23] Temp=35.5°C  Hum=90.5%  => A/C + Deshumidificador encendido
+[18-09-2026 | 16:37:24] Temp=22.8°C  Hum=80.6%  => Deshumidificador encendido
+[18-09-2026 | 16:37:26] Temp=23.1°C  Hum=80.0%  => Deshumidificador encendido
+[18-09-2026 | 16:37:27] Temp=12.5°C  Hum=64.1%  => Calefacción encendido
+[18-09-2026 | 16:37:29] Temp=36.3°C  Hum=33.3%  => A/C + Humidificador encendido
+[18-09-2026 | 16:37:30] Temp=33.9°C  Hum=53.1%  => Ventilador encendido
+[18-09-2026 | 16:37:32] Temp=28.5°C  Hum=90.3%  => Deshumidificador encendido
+[18-09-2026 | 16:37:33] Temp=33.2°C  Hum=46.6%  => Ventilador encendido
+[18-09-2026 | 16:37:35] Temp=32.3°C  Hum=43.3%  => Ventilador encendido
+[18-09-2026 | 16:37:36] Temp=12.5°C  Hum=78.3%  => Calefacción + Deshumidificador encendido
+[18-09-2026 | 16:37:38] Temp=13.2°C  Hum=33.0%  => Calefacción + Humidificador encendido
+[18-09-2026 | 16:37:39] Temp=18.7°C  Hum=94.3%  => Deshumidificador encendido
+[18-09-2026 | 16:37:41] Temp=22.9°C  Hum=78.7%  => Deshumidificador encendido
+[18-09-2026 | 16:37:42] Temp=22.0°C  Hum=87.3%  => Deshumidificador encendido
+[18-09-2026 | 16:37:44] Temp=25.3°C  Hum=39.7%  => Todo estable, sistema apagado
+[18-09-2026 | 16:37:45] Temp=19.9°C  Hum=55.2%  => Todo estable, sistema apagado
+[18-09-2026 | 16:37:47] Temp=28.2°C  Hum=78.1%  => Deshumidificador encendido
+[18-09-2026 | 16:37:48] Temp=20.1°C  Hum=95.0%  => Deshumidificador encendido
+[18-09-2026 | 16:37:50] Temp=17.0°C  Hum=31.3%  => Humidificador encendido
+[18-09-2026 | 16:37:51] Temp=14.6°C  Hum=42.8%  => Calefacción encendido
+[18-09-2026 | 16:37:53] Temp=17.6°C  Hum=56.0%  => Todo estable, sistema apagado
+[18-09-2026 | 16:37:54] Temp=31.9°C  Hum=45.1%  => Ventilador encendido
+[18-09-2026 | 16:37:56] Temp=19.7°C  Hum=82.8%  => Deshumidificador encendido
+[18-09-2026 | 16:37:57] Temp=28.5°C  Hum=62.5%  => Todo estable, sistema apagado
+[18-09-2026 | 16:37:59] Temp=30.7°C  Hum=30.1%  => A/C + Humidificador encendido
+[18-09-2026 | 16:38:00] Temp=20.8°C  Hum=46.5%  => Todo estable, sistema apagado
+[18-09-2026 | 16:38:02] Temp=37.8°C  Hum=37.1%  => Ventilador encendido
+[18-09-2026 | 16:38:03] Temp=13.7°C  Hum=26.2%  => Calefacción + Humidificador encendido
+[18-09-2026 | 16:38:05] Temp=37.3°C  Hum=45.1%  => Ventilador encendido
+[18-09-2026 | 16:38:06] Temp=35.4°C  Hum=40.1%  => Ventilador encendido
+[18-09-2026 | 16:38:08] Temp=20.1°C  Hum=57.8%  => Todo estable, sistema apagado
+[18-09-2026 | 16:38:09] Temp=23.5°C  Hum=30.3%  => Humidificador encendido
+[18-09-2026 | 16:38:11] Temp=32.7°C  Hum=75.1%  => A/C + Deshumidificador encendido
+[18-09-2026 | 16:38:12] Temp=37.3°C  Hum=54.7%  => Ventilador encendido
+[18-09-2026 | 16:38:14] Temp=28.0°C  Hum=67.4%  => Todo estable, sistema apagado
+[18-09-2026 | 16:38:15] Temp=28.4°C  Hum=33.5%  => Humidificador encendido
+[18-09-2026 | 16:38:17] Temp=36.3°C  Hum=51.7%  => Ventilador encendido
+[18-09-2026 | 16:38:18] Temp=17.5°C  Hum=90.5%  => Deshumidificador encendido
+[18-09-2026 | 16:38:20] Temp=16.2°C  Hum=45.2%  => Calefacción encendido
+[18-09-2026 | 16:38:21] Temp=17.4°C  Hum=36.5%  => Todo estable, sistema apagado
+[18-09-2026 | 16:38:23] Temp=27.2°C  Hum=88.3%  => Deshumidificador encendido
+[18-09-2026 | 16:38:24] Temp=32.7°C  Hum=34.3%  => A/C + Humidificador encendido
+[18-09-2026 | 16:38:26] Temp=37.8°C  Hum=68.8%  => Ventilador encendido
+[18-09-2026 | 16:38:27] Temp=36.9°C  Hum=54.3%  => Ventilador encendido
+[18-09-2026 | 16:38:29] Temp=26.9°C  Hum=35.8%  => Todo estable, sistema apagado
+[18-09-2026 | 16:38:30] Temp=36.7°C  Hum=81.9%  => A/C + Deshumidificador encendido
+[18-09-2026 | 16:38:32] Temp=31.4°C  Hum=63.3%  => Ventilador encendido
+[18-09-2026 | 16:38:33] Temp=13.3°C  Hum=29.3%  => Calefacción + Humidificador encendido
+[18-09-2026 | 16:38:35] Temp=14.2°C  Hum=42.8%  => Calefacción encendido
+[18-09-2026 | 16:38:36] Temp=25.1°C  Hum=37.4%  => Todo estable, sistema apagado
+[18-09-2026 | 16:38:38] Temp=32.6°C  Hum=67.1%  => Ventilador encendido
+[18-09-2026 | 16:38:39] Temp=34.8°C  Hum=51.2%  => Ventilador encendido
+[18-09-2026 | 16:38:41] Temp=23.6°C  Hum=51.1%  => Todo estable, sistema apagado
+[18-09-2026 | 16:38:42] Temp=23.4°C  Hum=75.1%  => Deshumidificador encendido
+[18-09-2026 | 16:38:44] Temp=12.5°C  Hum=52.7%  => Calefacción encendido
+[18-09-2026 | 16:38:45] Temp=24.2°C  Hum=32.2%  => Humidificador encendido
+[18-09-2026 | 16:38:47] Temp=24.5°C  Hum=71.3%  => Todo estable, sistema apagado
+[18-09-2026 | 16:38:48] Temp=30.2°C  Hum=48.2%  => Ventilador encendido
+[18-09-2026 | 16:38:50] Temp=34.1°C  Hum=80.2%  => A/C + Deshumidificador encendido
+[18-09-2026 | 16:38:51] Temp=26.1°C  Hum=42.2%  => Todo estable, sistema apagado
+[18-09-2026 | 16:38:53] Temp=31.3°C  Hum=62.7%  => Ventilador encendido
+[18-09-2026 | 16:38:54] Temp=24.2°C  Hum=63.0%  => Todo estable, sistema apagado
+[18-09-2026 | 16:38:56] Temp=29.6°C  Hum=49.4%  => Ventilador encendido
+[18-09-2026 | 16:38:57] Temp=37.6°C  Hum=54.8%  => Ventilador encendido
+[18-09-2026 | 16:38:59] Temp=29.5°C  Hum=77.3%  => A/C + Deshumidificador encendido
+[18-09-2026 | 16:39:00] Temp=26.6°C  Hum=37.8%  => Todo estable, sistema apagado
+[18-09-2026 | 16:39:02] Temp=27.6°C  Hum=95.0%  => Deshumidificador encendido
+[18-09-2026 | 16:39:03] Temp=29.0°C  Hum=32.2%  => Humidificador encendido
+[18-09-2026 | 16:39:05] Temp=14.7°C  Hum=83.9%  => Calefacción + Deshumidificador encendido
+[18-09-2026 | 16:39:06] Temp=17.1°C  Hum=35.8%  => Todo estable, sistema apagado
+[18-09-2026 | 16:39:08] Temp=14.4°C  Hum=76.9%  => Calefacción + Deshumidificador encendido
+[18-09-2026 | 16:39:09] Temp=22.3°C  Hum=41.0%  => Todo estable, sistema apagado
+[18-09-2026 | 16:39:11] Temp=33.0°C  Hum=62.1%  => Ventilador encendido
+[18-09-2026 | 16:39:12] Temp=33.6°C  Hum=79.6%  => A/C + Deshumidificador encendido
+[18-09-2026 | 16:39:14] Temp=21.1°C  Hum=76.6%  => Deshumidificador encendido
+[18-09-2026 | 16:39:15] Temp=33.7°C  Hum=69.5%  => Ventilador encendido
+[18-09-2026 | 16:39:17] Temp=33.5°C  Hum=72.4%  => Ventilador encendido
+[18-09-2026 | 16:39:18] Temp=19.6°C  Hum=88.0%  => Deshumidificador encendido
+[18-09-2026 | 16:39:20] Temp=23.5°C  Hum=84.6%  => Deshumidificador encendido
+[18-09-2026 | 16:39:21] Temp=37.1°C  Hum=91.5%  => A/C + Deshumidificador encendido
+[18-09-2026 | 16:39:23] Temp=14.0°C  Hum=50.0%  => Calefacción encendido
+[18-09-2026 | 16:39:24] Temp=31.6°C  Hum=89.1%  => A/C + Deshumidificador encendido
+[18-09-2026 | 16:39:26] Temp=13.5°C  Hum=88.1%  => Calefacción + Deshumidificador encendido
+[18-09-2026 | 16:39:27] Temp=37.9°C  Hum=82.5%  => A/C + Deshumidificador encendido
+[18-09-2026 | 16:39:29] Temp=15.1°C  Hum=52.5%  => Calefacción encendido
+[18-09-2026 | 16:39:30] Temp=19.9°C  Hum=41.8%  => Todo estable, sistema apagado
+[18-09-2026 | 16:39:32] Temp=28.4°C  Hum=76.1%  => Deshumidificador encendido
+[18-09-2026 | 16:39:33] Temp=14.9°C  Hum=78.2%  => Calefacción + Deshumidificador encendido
+[18-09-2026 | 16:39:35] Temp=14.3°C  Hum=37.7%  => Calefacción encendido
+[18-09-2026 | 16:39:36] Temp=13.3°C  Hum=52.9%  => Calefacción encendido
+[18-09-2026 | 16:39:38] Temp=26.3°C  Hum=27.0%  => Humidificador encendido
+[18-09-2026 | 16:39:39] Temp=15.2°C  Hum=39.2%  => Calefacción encendido
+[18-09-2026 | 16:39:41] Temp=20.3°C  Hum=81.3%  => Deshumidificador encendido
+[18-09-2026 | 16:39:42] Temp=12.3°C  Hum=39.4%  => Calefacción encendido
+[18-09-2026 | 16:39:44] Temp=26.8°C  Hum=86.3%  => Deshumidificador encendido
+[18-09-2026 | 16:39:45] Temp=34.1°C  Hum=30.1%  => A/C + Humidificador encendido
+[18-09-2026 | 16:39:47] Temp=31.2°C  Hum=84.1%  => A/C + Deshumidificador encendido
+[18-09-2026 | 16:39:48] Temp=36.9°C  Hum=50.9%  => Ventilador encendido
+[18-09-2026 | 16:39:50] Temp=36.2°C  Hum=70.7%  => Ventilador encendido
+[18-09-2026 | 16:39:51] Temp=28.5°C  Hum=94.0%  => Deshumidificador encendido
+[18-09-2026 | 16:39:53] Temp=15.3°C  Hum=37.8%  => Calefacción encendido
+[18-09-2026 | 16:39:54] Temp=32.6°C  Hum=71.2%  => Ventilador encendido
+[18-09-2026 | 16:39:56] Temp=29.9°C  Hum=86.6%  => A/C + Deshumidificador encendido
+[18-09-2026 | 16:39:57] Temp=21.9°C  Hum=70.2%  => Todo estable, sistema apagado
+[18-09-2026 | 16:39:59] Temp=29.2°C  Hum=64.2%  => Ventilador encendido
+[18-09-2026 | 16:40:00] Temp=22.0°C  Hum=86.4%  => Deshumidificador encendido
+[18-09-2026 | 16:40:02] Temp=14.2°C  Hum=66.3%  => Calefacción encendido
+[18-09-2026 | 16:40:03] Temp=25.2°C  Hum=64.9%  => Todo estable, sistema apagado
+[18-09-2026 | 16:40:05] Temp=20.2°C  Hum=48.0%  => Todo estable, sistema apagado
+[18-09-2026 | 16:40:06] Temp=21.2°C  Hum=32.1%  => Humidificador encendido
+[18-09-2026 | 16:40:08] Temp=21.9°C  Hum=61.8%  => Todo estable, sistema apagado
+[18-09-2026 | 16:40:09] Temp=35.3°C  Hum=37.2%  => Ventilador encendido
+[18-09-2026 | 16:40:11] Temp=35.3°C  Hum=84.6%  => A/C + Deshumidificador encendido
+[18-09-2026 | 16:40:12] Temp=16.1°C  Hum=37.5%  => Calefacción encendido
+[18-09-2026 | 16:40:14] Temp=33.4°C  Hum=74.5%  => Ventilador encendido
+[18-09-2026 | 16:40:15] Temp=12.4°C  Hum=31.5%  => Calefacción + Humidificador encendido
+[18-09-2026 | 16:40:17] Temp=13.5°C  Hum=39.5%  => Calefacción encendido
+[18-09-2026 | 16:40:18] Temp=13.6°C  Hum=85.1%  => Calefacción + Deshumidificador encendido
+[18-09-2026 | 16:40:20] Temp=32.8°C  Hum=27.3%  => A/C + Humidificador encendido
+[18-09-2026 | 16:40:21] Temp=23.2°C  Hum=88.8%  => Deshumidificador encendido
+[18-09-2026 | 16:40:23] Temp=19.4°C  Hum=92.8%  => Deshumidificador encendido
+[18-09-2026 | 16:40:24] Temp=17.8°C  Hum=56.8%  => Todo estable, sistema apagado
+[18-09-2026 | 16:40:26] Temp=26.0°C  Hum=73.7%  => Todo estable, sistema apagado
+[18-09-2026 | 16:40:27] Temp=23.0°C  Hum=59.6%  => Todo estable, sistema apagado
+[18-09-2026 | 16:40:29] Temp=19.8°C  Hum=26.3%  => Humidificador encendido
+[18-09-2026 | 16:40:30] Temp=26.1°C  Hum=88.7%  => Deshumidificador encendido
+[18-09-2026 | 16:40:32] Temp=33.3°C  Hum=76.7%  => A/C + Deshumidificador encendido
+[18-09-2026 | 16:40:33] Temp=19.6°C  Hum=44.0%  => Todo estable, sistema apagado
+[18-09-2026 | 16:40:35] Temp=36.0°C  Hum=40.3%  => Ventilador encendido
+[18-09-2026 | 16:40:36] Temp=13.3°C  Hum=46.5%  => Calefacción encendido
+[18-09-2026 | 16:40:38] Temp=20.0°C  Hum=46.3%  => Todo estable, sistema apagado
+[18-09-2026 | 16:40:39] Temp=25.0°C  Hum=54.0%  => Todo estable, sistema apagado
+[18-09-2026 | 16:40:41] Temp=15.8°C  Hum=65.2%  => Calefacción encendido
+[18-09-2026 | 16:40:42] Temp=18.9°C  Hum=55.4%  => Todo estable, sistema apagado
+[18-09-2026 | 16:40:44] Temp=37.1°C  Hum=55.9%  => Ventilador encendido
+[18-09-2026 | 16:40:45] Temp=20.4°C  Hum=60.6%  => Todo estable, sistema apagado
+[18-09-2026 | 16:40:47] Temp=32.6°C  Hum=78.8%  => A/C + Deshumidificador encendido
+[18-09-2026 | 16:40:48] Temp=29.9°C  Hum=72.3%  => Ventilador encendido
+[18-09-2026 | 16:40:50] Temp=26.5°C  Hum=28.4%  => Humidificador encendido
+[18-09-2026 | 16:40:51] Temp=33.9°C  Hum=50.9%  => Ventilador encendido
+[18-09-2026 | 16:40:53] Temp=21.9°C  Hum=56.5%  => Todo estable, sistema apagado
+[18-09-2026 | 16:40:54] Temp=18.8°C  Hum=72.1%  => Todo estable, sistema apagado
+[18-09-2026 | 16:40:56] Temp=25.4°C  Hum=89.4%  => Deshumidificador encendido
+[18-09-2026 | 16:40:57] Temp=31.5°C  Hum=44.7%  => Ventilador encendido
+[18-09-2026 | 16:40:59] Temp=15.8°C  Hum=61.5%  => Calefacción encendido
+[18-09-2026 | 16:41:00] Temp=34.5°C  Hum=29.3%  => A/C + Humidificador encendido
+[18-09-2026 | 16:41:02] Temp=14.4°C  Hum=40.1%  => Calefacción encendido
+[18-09-2026 | 16:41:03] Temp=17.5°C  Hum=57.1%  => Todo estable, sistema apagado
+[18-09-2026 | 16:41:05] Temp=28.8°C  Hum=41.7%  => Todo estable, sistema apagado
+[18-09-2026 | 16:41:06] Temp=26.5°C  Hum=72.1%  => Todo estable, sistema apagado
+[18-09-2026 | 16:41:08] Temp=31.8°C  Hum=91.3%  => A/C + Deshumidificador encendido
+[18-09-2026 | 16:41:09] Temp=18.0°C  Hum=80.4%  => Deshumidificador encendido
+[18-09-2026 | 16:41:11] Temp=25.4°C  Hum=48.8%  => Todo estable, sistema apagado
+[18-09-2026 | 16:41:12] Temp=20.1°C  Hum=55.5%  => Todo estable, sistema apagado
+[18-09-2026 | 16:41:14] Temp=29.9°C  Hum=51.0%  => Ventilador encendido
+[18-09-2026 | 16:41:15] Temp=37.6°C  Hum=81.3%  => A/C + Deshumidificador encendido
+[18-09-2026 | 16:41:17] Temp=20.6°C  Hum=81.0%  => Deshumidificador encendido
+[18-09-2026 | 16:41:18] Temp=31.9°C  Hum=93.0%  => A/C + Deshumidificador encendido
+[18-09-2026 | 16:41:20] Temp=36.8°C  Hum=59.7%  => Ventilador encendido
+[18-09-2026 | 16:41:21] Temp=22.7°C  Hum=94.7%  => Deshumidificador encendido
+[18-09-2026 | 16:41:23] Temp=26.0°C  Hum=45.7%  => Todo estable, sistema apagado
+[18-09-2026 | 16:41:24] Temp=18.7°C  Hum=49.8%  => Todo estable, sistema apagado
+[18-09-2026 | 16:41:26] Temp=28.3°C  Hum=28.5%  => Humidificador encendido
+[18-09-2026 | 16:41:27] Temp=12.3°C  Hum=90.5%  => Calefacción + Deshumidificador encendido
+[18-09-2026 | 16:41:29] Temp=34.1°C  Hum=92.9%  => A/C + Deshumidificador encendido
+[18-09-2026 | 16:41:30] Temp=32.5°C  Hum=47.5%  => Ventilador encendido
+[18-09-2026 | 16:41:32] Temp=24.1°C  Hum=59.6%  => Todo estable, sistema apagado
+[18-09-2026 | 16:41:35] Temp=21.6°C  Hum=71.5%  => Todo estable, sistema apagado
+[18-09-2026 | 16:41:38] Temp=33.9°C  Hum=68.1%  => Ventilador encendido
+[18-09-2026 | 16:41:41] Temp=35.4°C  Hum=75.4%  => A/C + Deshumidificador encendido
+[18-09-2026 | 16:41:44] Temp=21.8°C  Hum=90.3%  => Deshumidificador encendido
+[18-09-2026 | 16:41:47] Temp=32.4°C  Hum=77.9%  => A/C + Deshumidificador encendido
+[18-09-2026 | 16:41:50] Temp=23.2°C  Hum=58.9%  => Todo estable, sistema apagado
+[18-09-2026 | 16:41:53] Temp=30.7°C  Hum=86.8%  => A/C + Deshumidificador encendido
+[18-09-2026 | 16:41:57] Temp=13.8°C  Hum=77.7%  => Calefacción + Deshumidificador encendido
+[18-09-2026 | 16:42:00] Temp=21.1°C  Hum=89.4%  => Deshumidificador encendido
+[18-09-2026 | 16:42:03] Temp=22.8°C  Hum=76.4%  => Deshumidificador encendido
+[18-09-2026 | 16:42:06] Temp=33.6°C  Hum=26.5%  => A/C + Humidificador encendido
+[18-09-2026 | 16:42:09] Temp=19.2°C  Hum=35.7%  => Todo estable, sistema apagado
+[18-09-2026 | 16:42:12] Temp=35.7°C  Hum=86.6%  => A/C + Deshumidificador encendido
+[18-09-2026 | 16:42:15] Temp=35.6°C  Hum=68.3%  => Ventilador encendido
+[18-09-2026 | 16:42:18] Temp=13.6°C  Hum=82.4%  => Calefacción + Deshumidificador encendido
+[18-09-2026 | 16:42:21] Temp=22.7°C  Hum=76.1%  => Deshumidificador encendido
+[18-09-2026 | 16:42:24] Temp=37.4°C  Hum=61.1%  => Ventilador encendido
+[18-09-2026 | 16:42:27] Temp=13.3°C  Hum=76.4%  => Calefacción + Deshumidificador encendido
+[18-09-2026 | 16:42:30] Temp=35.4°C  Hum=38.0%  => Ventilador encendido
+[18-09-2026 | 16:42:33] Temp=17.8°C  Hum=56.5%  => Todo estable, sistema apagado
+[18-09-2026 | 16:42:36] Temp=14.3°C  Hum=72.1%  => Calefacción encendido
+[18-09-2026 | 16:42:39] Temp=31.5°C  Hum=46.9%  => Ventilador encendido
+[18-09-2026 | 16:42:42] Temp=34.7°C  Hum=63.6%  => Ventilador encendido
+[18-09-2026 | 16:42:45] Temp=37.3°C  Hum=91.7%  => A/C + Deshumidificador encendido
+[18-09-2026 | 16:42:48] Temp=15.0°C  Hum=45.0%  => Calefacción encendido
+[18-09-2026 | 16:42:51] Temp=37.0°C  Hum=26.8%  => A/C + Humidificador encendido
+[18-09-2026 | 16:42:54] Temp=22.3°C  Hum=58.7%  => Todo estable, sistema apagado
+[18-09-2026 | 16:42:57] Temp=31.5°C  Hum=30.6%  => A/C + Humidificador encendido
+[18-09-2026 | 16:43:00] Temp=14.2°C  Hum=92.8%  => Calefacción + Deshumidificador encendido
+[18-09-2026 | 16:43:03] Temp=23.9°C  Hum=53.8%  => Todo estable, sistema apagado
+[18-09-2026 | 16:43:06] Temp=12.3°C  Hum=26.6%  => Calefacción + Humidificador encendido
+[18-09-2026 | 16:43:09] Temp=18.1°C  Hum=57.9%  => Todo estable, sistema apagado
+[18-09-2026 | 16:43:12] Temp=14.4°C  Hum=85.2%  => Calefacción + Deshumidificador encendido
+[18-09-2026 | 16:43:15] Temp=16.8°C  Hum=53.9%  => Calefacción encendido
+[18-09-2026 | 16:43:18] Temp=32.2°C  Hum=52.6%  => Ventilador encendido
+[18-09-2026 | 16:43:21] Temp=16.6°C  Hum=92.4%  => Calefacción + Deshumidificador encendido
+[18-09-2026 | 16:43:24] Temp=15.9°C  Hum=49.0%  => Calefacción encendido
+[18-09-2026 | 16:43:27] Temp=26.4°C  Hum=53.8%  => Todo estable, sistema apagado
+[18-09-2026 | 16:43:30] Temp=23.1°C  Hum=92.1%  => Deshumidificador encendido
+[18-09-2026 | 16:43:33] Temp=25.3°C  Hum=85.1%  => Deshumidificador encendido
+[18-09-2026 | 16:43:36] Temp=13.4°C  Hum=86.8%  => Calefacción + Deshumidificador encendido
+[18-09-2026 | 16:43:39] Temp=33.1°C  Hum=51.3%  => Ventilador encendido
+[18-09-2026 | 16:43:42] Temp=13.4°C  Hum=64.5%  => Calefacción encendido
+[18-09-2026 | 16:43:45] Temp=33.7°C  Hum=29.4%  => A/C + Humidificador encendido
+[18-09-2026 | 16:43:48] Temp=26.7°C  Hum=88.7%  => Deshumidificador encendido
+[18-09-2026 | 16:43:51] Temp=38.0°C  Hum=62.7%  => Ventilador encendido
+[18-09-2026 | 16:43:54] Temp=21.3°C  Hum=75.9%  => Deshumidificador encendido
+[18-09-2026 | 16:43:57] Temp=19.2°C  Hum=91.5%  => Deshumidificador encendido
+[18-09-2026 | 16:44:00] Temp=14.3°C  Hum=53.0%  => Calefacción encendido
+[18-09-2026 | 16:44:03] Temp=24.3°C  Hum=41.4%  => Todo estable, sistema apagado
+[18-09-2026 | 16:44:06] Temp=25.4°C  Hum=90.7%  => Deshumidificador encendido
+[18-09-2026 | 16:44:09] Temp=21.5°C  Hum=61.9%  => Todo estable, sistema apagado
+[18-09-2026 | 16:44:12] Temp=19.2°C  Hum=87.0%  => Deshumidificador encendido
+[18-09-2026 | 16:44:15] Temp=29.3°C  Hum=50.5%  => Ventilador encendido
+[18-09-2026 | 16:44:18] Temp=35.9°C  Hum=52.3%  => Ventilador encendido
+[18-09-2026 | 16:44:21] Temp=25.2°C  Hum=40.9%  => Todo estable, sistema apagado
+[18-09-2026 | 16:44:24] Temp=29.7°C  Hum=40.4%  => Ventilador encendido
+[18-09-2026 | 16:44:27] Temp=33.5°C  Hum=35.6%  => Ventilador encendido
+[18-09-2026 | 16:44:30] Temp=31.2°C  Hum=85.4%  => A/C + Deshumidificador encendido
+[18-09-2026 | 16:44:33] Temp=16.4°C  Hum=53.6%  => Calefacción encendido
+[18-09-2026 | 16:44:36] Temp=14.0°C  Hum=62.3%  => Calefacción encendido
+[18-09-2026 | 16:44:39] Temp=12.0°C  Hum=54.6%  => Calefacción encendido
+[18-09-2026 | 16:44:42] Temp=18.1°C  Hum=70.3%  => Todo estable, sistema apagado
+[18-09-2026 | 16:44:45] Temp=17.7°C  Hum=81.9%  => Deshumidificador encendido
+[18-09-2026 | 16:44:48] Temp=17.3°C  Hum=89.2%  => Deshumidificador encendido
+[18-09-2026 | 16:44:51] Temp=34.9°C  Hum=46.0%  => Ventilador encendido
+[18-09-2026 | 16:44:54] Temp=32.2°C  Hum=29.6%  => A/C + Humidificador encendido
+[18-09-2026 | 16:44:57] Temp=14.2°C  Hum=34.9%  => Calefacción + Humidificador encendido
+[18-09-2026 | 16:45:00] Temp=36.3°C  Hum=72.2%  => Ventilador encendido
+[18-09-2026 | 16:45:03] Temp=21.6°C  Hum=45.0%  => Todo estable, sistema apagado
+[18-09-2026 | 16:45:06] Temp=37.8°C  Hum=93.5%  => A/C + Deshumidificador encendido
+[18-09-2026 | 16:45:09] Temp=30.7°C  Hum=41.5%  => Ventilador encendido
+[18-09-2026 | 16:45:12] Temp=22.5°C  Hum=47.7%  => Todo estable, sistema apagado
+[18-09-2026 | 16:45:15] Temp=28.7°C  Hum=65.7%  => Todo estable, sistema apagado
+[18-09-2026 | 16:45:18] Temp=35.9°C  Hum=42.0%  => Ventilador encendido
+[18-09-2026 | 16:45:21] Temp=20.7°C  Hum=75.1%  => Deshumidificador encendido
+[18-09-2026 | 16:45:24] Temp=21.0°C  Hum=31.2%  => Humidificador encendido
+[18-09-2026 | 16:45:27] Temp=16.8°C  Hum=55.8%  => Calefacción encendido
+[18-09-2026 | 16:45:30] Temp=14.2°C  Hum=32.4%  => Calefacción + Humidificador encendido
+[18-09-2026 | 16:45:33] Temp=22.0°C  Hum=77.7%  => Deshumidificador encendido
+[18-09-2026 | 16:45:36] Temp=17.9°C  Hum=82.5%  => Deshumidificador encendido
+[18-09-2026 | 16:45:39] Temp=24.2°C  Hum=89.0%  => Deshumidificador encendido
+[18-09-2026 | 16:45:42] Temp=23.2°C  Hum=56.5%  => Todo estable, sistema apagado
+[18-09-2026 | 16:45:45] Temp=19.0°C  Hum=82.6%  => Deshumidificador encendido
+[18-09-2026 | 16:45:48] Temp=36.2°C  Hum=82.5%  => A/C + Deshumidificador encendido
+[18-09-2026 | 16:45:51] Temp=27.4°C  Hum=94.5%  => Deshumidificador encendido
+[18-09-2026 | 16:45:54] Temp=19.1°C  Hum=45.1%  => Todo estable, sistema apagado
+[18-09-2026 | 16:45:57] Temp=18.1°C  Hum=41.5%  => Todo estable, sistema apagado
+[18-09-2026 | 16:46:00] Temp=36.2°C  Hum=87.9%  => A/C + Deshumidificador encendido
+[18-09-2026 | 16:46:03] Temp=13.9°C  Hum=69.8%  => Calefacción encendido
+[18-09-2026 | 16:46:06] Temp=23.8°C  Hum=27.1%  => Humidificador encendido
+[18-09-2026 | 16:46:09] Temp=29.2°C  Hum=28.0%  => A/C + Humidificador encendido
+[18-09-2026 | 16:46:12] Temp=21.5°C  Hum=51.1%  => Todo estable, sistema apagado
+[18-09-2026 | 16:46:15] Temp=24.6°C  Hum=30.7%  => Humidificador encendido
+[18-09-2026 | 16:46:18] Temp=22.8°C  Hum=30.1%  => Humidificador encendido
+[18-09-2026 | 16:46:21] Temp=25.5°C  Hum=61.3%  => Todo estable, sistema apagado
+[18-09-2026 | 16:46:24] Temp=35.2°C  Hum=53.9%  => Ventilador encendido
+[18-09-2026 | 16:46:27] Temp=18.6°C  Hum=33.3%  => Humidificador encendido
+[18-09-2026 | 16:46:30] Temp=36.4°C  Hum=54.1%  => Ventilador encendido
+[18-09-2026 | 16:46:33] Temp=30.5°C  Hum=91.8%  => A/C + Deshumidificador encendido
+[18-09-2026 | 16:46:36] Temp=14.5°C  Hum=92.0%  => Calefacción + Deshumidificador encendido
+[18-09-2026 | 16:46:39] Temp=33.6°C  Hum=89.3%  => A/C + Deshumidificador encendido
+[18-09-2026 | 16:46:42] Temp=20.6°C  Hum=67.2%  => Todo estable, sistema apagado
+[18-09-2026 | 16:46:45] Temp=14.0°C  Hum=92.4%  => Calefacción + Deshumidificador encendido
+[18-09-2026 | 16:46:48] Temp=12.6°C  Hum=32.5%  => Calefacción + Humidificador encendido
+[18-09-2026 | 16:46:51] Temp=20.2°C  Hum=62.7%  => Todo estable, sistema apagado
+[18-09-2026 | 16:46:54] Temp=20.3°C  Hum=51.9%  => Todo estable, sistema apagado
+[18-09-2026 | 16:46:57] Temp=33.6°C  Hum=59.2%  => Ventilador encendido
+[18-09-2026 | 16:47:00] Temp=25.0°C  Hum=43.9%  => Todo estable, sistema apagado
+[18-09-2026 | 16:47:03] Temp=22.8°C  Hum=56.2%  => Todo estable, sistema apagado
+[18-09-2026 | 16:47:06] Temp=29.7°C  Hum=48.7%  => Ventilador encendido
+[18-09-2026 | 16:47:09] Temp=14.6°C  Hum=43.0%  => Calefacción encendido
+[18-09-2026 | 16:47:12] Temp=21.0°C  Hum=90.6%  => Deshumidificador encendido
+[18-09-2026 | 16:47:15] Temp=14.6°C  Hum=38.1%  => Calefacción encendido
+[18-09-2026 | 16:47:18] Temp=24.3°C  Hum=80.1%  => Deshumidificador encendido
+[18-09-2026 | 16:47:21] Temp=28.7°C  Hum=72.3%  => Todo estable, sistema apagado
+[18-09-2026 | 16:47:24] Temp=26.0°C  Hum=58.4%  => Todo estable, sistema apagado
+[18-09-2026 | 16:47:27] Temp=24.1°C  Hum=54.6%  => Todo estable, sistema apagado
+[18-09-2026 | 16:47:30] Temp=35.9°C  Hum=62.2%  => Ventilador encendido
+[18-09-2026 | 16:47:33] Temp=37.4°C  Hum=41.4%  => Ventilador encendido
+[18-09-2026 | 16:47:36] Temp=29.8°C  Hum=41.7%  => Ventilador encendido
+[18-09-2026 | 16:47:39] Temp=15.2°C  Hum=84.4%  => Calefacción + Deshumidificador encendido
+[18-09-2026 | 16:47:42] Temp=29.0°C  Hum=71.9%  => Todo estable, sistema apagado
+[18-09-2026 | 16:47:45] Temp=19.2°C  Hum=26.5%  => Humidificador encendido
+[18-09-2026 | 16:47:48] Temp=31.6°C  Hum=55.5%  => Ventilador encendido
+[18-09-2026 | 16:47:51] Temp=26.5°C  Hum=26.2%  => Humidificador encendido
+[18-09-2026 | 16:47:54] Temp=28.5°C  Hum=80.8%  => Deshumidificador encendido
+[18-09-2026 | 16:47:57] Temp=18.5°C  Hum=31.1%  => Humidificador encendido
+[18-09-2026 | 16:48:00] Temp=12.5°C  Hum=86.6%  => Calefacción + Deshumidificador encendido
+[18-09-2026 | 16:48:03] Temp=33.8°C  Hum=67.8%  => Ventilador encendido
+[18-09-2026 | 16:48:06] Temp=20.8°C  Hum=39.2%  => Todo estable, sistema apagado
+[18-09-2026 | 16:48:09] Temp=14.9°C  Hum=33.5%  => Calefacción + Humidificador encendido
+[18-09-2026 | 16:48:12] Temp=30.7°C  Hum=75.8%  => A/C + Deshumidificador encendido
+[18-09-2026 | 16:48:15] Temp=13.1°C  Hum=65.7%  => Calefacción encendido
+[18-09-2026 | 16:48:18] Temp=30.0°C  Hum=49.2%  => Ventilador encendido
+[18-09-2026 | 16:48:21] Temp=21.4°C  Hum=63.9%  => Todo estable, sistema apagado
+[18-09-2026 | 16:48:24] Temp=29.4°C  Hum=45.9%  => Ventilador encendido
+[18-09-2026 | 16:48:27] Temp=33.7°C  Hum=45.0%  => Ventilador encendido
+[18-09-2026 | 16:48:30] Temp=24.9°C  Hum=29.0%  => Humidificador encendido
+[18-09-2026 | 16:48:33] Temp=32.4°C  Hum=63.7%  => Ventilador encendido
+[18-09-2026 | 16:48:36] Temp=16.2°C  Hum=49.4%  => Calefacción encendido
+[18-09-2026 | 16:48:39] Temp=25.2°C  Hum=62.1%  => Todo estable, sistema apagado
+[18-09-2026 | 16:48:42] Temp=26.4°C  Hum=35.0%  => Todo estable, sistema apagado
+[18-09-2026 | 16:48:45] Temp=32.6°C  Hum=71.0%  => Ventilador encendido
+[18-09-2026 | 16:48:48] Temp=18.1°C  Hum=89.0%  => Deshumidificador encendido
+[18-09-2026 | 16:48:51] Temp=23.8°C  Hum=62.8%  => Todo estable, sistema apagado
+[18-09-2026 | 16:48:54] Temp=14.6°C  Hum=70.5%  => Calefacción encendido
+[18-09-2026 | 16:48:57] Temp=35.6°C  Hum=87.5%  => A/C + Deshumidificador encendido
+[18-09-2026 | 16:49:00] Temp=26.3°C  Hum=94.0%  => Deshumidificador encendido
+[18-09-2026 | 16:49:03] Temp=15.8°C  Hum=55.6%  => Calefacción encendido
+[18-09-2026 | 16:49:06] Temp=25.0°C  Hum=35.7%  => Todo estable, sistema apagado
+[18-09-2026 | 16:49:09] Temp=13.1°C  Hum=27.2%  => Calefacción + Humidificador encendido
+[18-09-2026 | 16:49:12] Temp=15.2°C  Hum=83.7%  => Calefacción + Deshumidificador encendido
+[18-09-2026 | 16:49:15] Temp=13.8°C  Hum=45.1%  => Calefacción encendido
+[18-09-2026 | 16:49:18] Temp=14.6°C  Hum=28.3%  => Calefacción + Humidificador encendido
+[18-09-2026 | 16:49:21] Temp=27.0°C  Hum=92.7%  => Deshumidificador encendido
+[18-09-2026 | 16:49:24] Temp=36.8°C  Hum=94.6%  => A/C + Deshumidificador encendido
+[18-09-2026 | 16:49:27] Temp=30.6°C  Hum=47.0%  => Ventilador encendido
+[18-09-2026 | 16:49:30] Temp=21.0°C  Hum=81.1%  => Deshumidificador encendido
+[18-09-2026 | 16:49:33] Temp=28.6°C  Hum=66.4%  => Todo estable, sistema apagado
+[18-09-2026 | 16:49:36] Temp=34.9°C  Hum=52.4%  => Ventilador encendido
+[18-09-2026 | 16:49:39] Temp=37.0°C  Hum=32.0%  => A/C + Humidificador encendido
+[18-09-2026 | 16:49:42] Temp=16.1°C  Hum=62.3%  => Calefacción encendido
+[18-09-2026 | 16:49:45] Temp=33.6°C  Hum=25.2%  => A/C + Humidificador encendido
+[18-09-2026 | 16:49:48] Temp=35.6°C  Hum=31.1%  => A/C + Humidificador encendido
+[18-09-2026 | 16:49:51] Temp=35.0°C  Hum=59.2%  => Ventilador encendido
+[18-09-2026 | 16:49:54] Temp=32.1°C  Hum=56.7%  => Ventilador encendido
+[18-09-2026 | 16:49:57] Temp=23.1°C  Hum=76.8%  => Deshumidificador encendido
+[18-09-2026 | 16:50:00] Temp=28.9°C  Hum=72.3%  => Todo estable, sistema apagado
+[18-09-2026 | 16:50:03] Temp=23.3°C  Hum=84.5%  => Deshumidificador encendido
+[18-09-2026 | 16:50:06] Temp=23.5°C  Hum=42.6%  => Todo estable, sistema apagado
+[18-09-2026 | 16:50:09] Temp=14.6°C  Hum=53.8%  => Calefacción encendido
+[18-09-2026 | 16:50:12] Temp=25.2°C  Hum=33.6%  => Humidificador encendido
+[18-09-2026 | 16:50:15] Temp=21.4°C  Hum=80.9%  => Deshumidificador encendido
+[18-09-2026 | 16:50:18] Temp=13.0°C  Hum=87.5%  => Calefacción + Deshumidificador encendido
+[18-09-2026 | 16:50:21] Temp=34.7°C  Hum=65.8%  => Ventilador encendido
+[18-09-2026 | 16:50:24] Temp=29.1°C  Hum=68.4%  => Ventilador encendido
+[18-09-2026 | 16:50:27] Temp=22.3°C  Hum=49.6%  => Todo estable, sistema apagado
+[18-09-2026 | 16:50:30] Temp=21.1°C  Hum=30.1%  => Humidificador encendido
+[18-09-2026 | 16:50:33] Temp=22.9°C  Hum=73.0%  => Todo estable, sistema apagado
+[18-09-2026 | 16:50:36] Temp=34.8°C  Hum=29.3%  => A/C + Humidificador encendido
+[18-09-2026 | 16:50:39] Temp=26.9°C  Hum=62.7%  => Todo estable, sistema apagado
+[18-09-2026 | 16:50:42] Temp=22.6°C  Hum=49.7%  => Todo estable, sistema apagado
+[18-09-2026 | 16:50:45] Temp=35.4°C  Hum=57.9%  => Ventilador encendido
+[18-09-2026 | 16:50:48] Temp=12.1°C  Hum=65.8%  => Calefacción encendido
+[18-09-2026 | 16:50:51] Temp=34.6°C  Hum=38.0%  => Ventilador encendido
+[18-09-2026 | 16:50:54] Temp=16.0°C  Hum=36.6%  => Calefacción encendido
+[18-09-2026 | 16:50:57] Temp=28.9°C  Hum=39.6%  => Todo estable, sistema apagado
+[18-09-2026 | 16:51:00] Temp=18.7°C  Hum=69.8%  => Todo estable, sistema apagado
+[18-09-2026 | 16:51:03] Temp=19.9°C  Hum=67.6%  => Todo estable, sistema apagado
+[18-09-2026 | 16:51:06] Temp=20.6°C  Hum=84.8%  => Deshumidificador encendido
+[18-09-2026 | 16:51:09] Temp=32.1°C  Hum=79.5%  => A/C + Deshumidificador encendido
+[18-09-2026 | 16:51:12] Temp=28.1°C  Hum=94.2%  => Deshumidificador encendido
+[18-09-2026 | 16:51:15] Temp=24.2°C  Hum=86.0%  => Deshumidificador encendido
+[18-09-2026 | 16:51:18] Temp=37.3°C  Hum=33.6%  => A/C + Humidificador encendido
+[18-09-2026 | 16:51:21] Temp=25.9°C  Hum=72.5%  => Todo estable, sistema apagado
+[18-09-2026 | 16:51:24] Temp=34.7°C  Hum=49.2%  => Ventilador encendido
+[18-09-2026 | 16:51:27] Temp=31.8°C  Hum=88.0%  => A/C + Deshumidificador encendido
+[18-09-2026 | 16:51:30] Temp=16.6°C  Hum=76.3%  => Calefacción + Deshumidificador encendido
+[18-09-2026 | 16:51:33] Temp=20.5°C  Hum=64.5%  => Todo estable, sistema apagado
+[18-09-2026 | 16:51:36] Temp=15.0°C  Hum=35.9%  => Calefacción encendido
+[18-09-2026 | 16:51:39] Temp=36.6°C  Hum=29.0%  => A/C + Humidificador encendido
+[18-09-2026 | 16:51:42] Temp=28.9°C  Hum=79.1%  => Deshumidificador encendido
+[18-09-2026 | 16:51:45] Temp=29.1°C  Hum=65.4%  => Ventilador encendido
+[18-09-2026 | 16:51:48] Temp=26.3°C  Hum=75.2%  => Deshumidificador encendido
+[18-09-2026 | 16:51:51] Temp=30.4°C  Hum=49.9%  => Ventilador encendido
+[18-09-2026 | 16:51:54] Temp=36.3°C  Hum=87.6%  => A/C + Deshumidificador encendido
+[18-09-2026 | 16:51:57] Temp=31.1°C  Hum=89.7%  => A/C + Deshumidificador encendido
+[18-09-2026 | 16:52:00] Temp=30.6°C  Hum=73.1%  => Ventilador encendido
+[18-09-2026 | 16:52:03] Temp=35.8°C  Hum=88.5%  => A/C + Deshumidificador encendido
+[18-09-2026 | 16:52:06] Temp=24.0°C  Hum=62.2%  => Todo estable, sistema apagado
+[18-09-2026 | 16:52:09] Temp=22.5°C  Hum=58.0%  => Todo estable, sistema apagado
+[18-09-2026 | 16:52:12] Temp=19.6°C  Hum=71.7%  => Todo estable, sistema apagado
+[18-09-2026 | 16:52:15] Temp=31.8°C  Hum=86.1%  => A/C + Deshumidificador encendido
+[18-09-2026 | 16:52:18] Temp=24.8°C  Hum=34.3%  => Humidificador encendido
+[18-09-2026 | 16:52:21] Temp=27.4°C  Hum=91.6%  => Deshumidificador encendido
+[18-09-2026 | 16:52:24] Temp=28.6°C  Hum=43.0%  => Todo estable, sistema apagado
+[18-09-2026 | 16:52:27] Temp=25.2°C  Hum=26.0%  => Humidificador encendido
+[18-09-2026 | 16:52:30] Temp=17.8°C  Hum=30.3%  => Humidificador encendido
+[18-09-2026 | 16:52:33] Temp=28.6°C  Hum=32.2%  => Humidificador encendido
+[18-09-2026 | 16:52:36] Temp=24.6°C  Hum=49.7%  => Todo estable, sistema apagado
+[18-09-2026 | 16:52:39] Temp=28.3°C  Hum=49.5%  => Todo estable, sistema apagado
+[18-09-2026 | 16:52:42] Temp=37.7°C  Hum=92.1%  => A/C + Deshumidificador encendido
+[18-09-2026 | 16:52:45] Temp=21.3°C  Hum=79.9%  => Deshumidificador encendido
+[18-09-2026 | 16:52:48] Temp=36.5°C  Hum=26.1%  => A/C + Humidificador encendido
+[18-09-2026 | 16:52:51] Temp=33.2°C  Hum=47.5%  => Ventilador encendido
+[18-09-2026 | 16:52:54] Temp=19.2°C  Hum=55.0%  => Todo estable, sistema apagado
+[18-09-2026 | 16:52:57] Temp=24.5°C  Hum=92.5%  => Deshumidificador encendido
+[18-09-2026 | 16:53:00] Temp=18.0°C  Hum=52.1%  => Todo estable, sistema apagado
+[18-09-2026 | 16:53:03] Temp=33.1°C  Hum=39.5%  => Ventilador encendido
+[18-09-2026 | 16:53:06] Temp=22.4°C  Hum=73.3%  => Todo estable, sistema apagado
+[18-09-2026 | 16:53:09] Temp=25.7°C  Hum=88.5%  => Deshumidificador encendido
+[18-09-2026 | 16:53:12] Temp=16.0°C  Hum=66.2%  => Calefacción encendido
+[18-09-2026 | 16:53:15] Temp=17.2°C  Hum=87.9%  => Deshumidificador encendido
+[18-09-2026 | 16:53:18] Temp=30.0°C  Hum=76.0%  => A/C + Deshumidificador encendido
+[18-09-2026 | 16:53:21] Temp=12.3°C  Hum=84.2%  => Calefacción + Deshumidificador encendido
+[18-09-2026 | 16:53:24] Temp=28.6°C  Hum=51.4%  => Todo estable, sistema apagado
+[18-09-2026 | 16:53:27] Temp=14.2°C  Hum=65.4%  => Calefacción encendido
+[18-09-2026 | 16:53:30] Temp=24.0°C  Hum=84.7%  => Deshumidificador encendido
+[18-09-2026 | 16:53:33] Temp=29.9°C  Hum=81.8%  => A/C + Deshumidificador encendido
+[18-09-2026 | 16:53:36] Temp=19.4°C  Hum=84.6%  => Deshumidificador encendido
+[18-09-2026 | 16:53:39] Temp=28.4°C  Hum=32.9%  => Humidificador encendido
+[18-09-2026 | 16:53:42] Temp=35.1°C  Hum=54.1%  => Ventilador encendido
+[18-09-2026 | 16:53:45] Temp=25.5°C  Hum=80.9%  => Deshumidificador encendido
+[18-09-2026 | 16:53:48] Temp=14.2°C  Hum=56.2%  => Calefacción encendido
+[18-09-2026 | 16:53:51] Temp=24.1°C  Hum=43.9%  => Todo estable, sistema apagado
+[18-09-2026 | 16:53:54] Temp=20.1°C  Hum=85.0%  => Deshumidificador encendido
+[18-09-2026 | 16:53:57] Temp=37.8°C  Hum=63.8%  => Ventilador encendido
+[18-09-2026 | 16:54:00] Temp=36.8°C  Hum=52.4%  => Ventilador encendido
+[18-09-2026 | 16:54:03] Temp=14.2°C  Hum=79.0%  => Calefacción + Deshumidificador encendido
+[18-09-2026 | 16:54:06] Temp=36.6°C  Hum=44.2%  => Ventilador encendido
+[18-09-2026 | 16:54:09] Temp=34.4°C  Hum=26.3%  => A/C + Humidificador encendido
+[18-09-2026 | 16:54:12] Temp=21.2°C  Hum=80.0%  => Deshumidificador encendido
+[18-09-2026 | 16:54:15] Temp=33.6°C  Hum=30.0%  => A/C + Humidificador encendido
+[18-09-2026 | 16:54:18] Temp=17.8°C  Hum=89.8%  => Deshumidificador encendido
+[18-09-2026 | 16:54:21] Temp=34.9°C  Hum=60.4%  => Ventilador encendido
+[18-09-2026 | 16:54:24] Temp=33.4°C  Hum=92.3%  => A/C + Deshumidificador encendido
+[18-09-2026 | 16:54:27] Temp=27.0°C  Hum=61.2%  => Todo estable, sistema apagado
+[18-09-2026 | 16:54:30] Temp=15.3°C  Hum=89.6%  => Calefacción + Deshumidificador encendido
+[18-09-2026 | 16:54:33] Temp=13.6°C  Hum=59.8%  => Calefacción encendido
+[18-09-2026 | 16:54:36] Temp=34.2°C  Hum=34.5%  => A/C + Humidificador encendido
+[18-09-2026 | 16:54:39] Temp=31.6°C  Hum=60.8%  => Ventilador encendido
+[18-09-2026 | 16:54:42] Temp=20.1°C  Hum=60.1%  => Todo estable, sistema apagado
+[18-09-2026 | 16:54:45] Temp=16.2°C  Hum=28.4%  => Calefacción + Humidificador encendido
+[18-09-2026 | 16:54:48] Temp=29.1°C  Hum=91.1%  => A/C + Deshumidificador encendido
+[18-09-2026 | 16:54:51] Temp=26.5°C  Hum=45.6%  => Todo estable, sistema apagado
+[18-09-2026 | 16:54:54] Temp=16.3°C  Hum=53.8%  => Calefacción encendido
+[18-09-2026 | 16:54:57] Temp=13.1°C  Hum=25.1%  => Calefacción + Humidificador encendido
+[18-09-2026 | 16:55:00] Temp=29.9°C  Hum=62.8%  => Ventilador encendido
+[18-09-2026 | 16:55:03] Temp=31.1°C  Hum=49.2%  => Ventilador encendido
+[18-09-2026 | 16:55:06] Temp=14.2°C  Hum=80.2%  => Calefacción + Deshumidificador encendido
+[18-09-2026 | 16:55:09] Temp=24.1°C  Hum=45.8%  => Todo estable, sistema apagado
+[18-09-2026 | 16:55:12] Temp=30.5°C  Hum=90.7%  => A/C + Deshumidificador encendido
+[18-09-2026 | 16:55:15] Temp=21.8°C  Hum=42.1%  => Todo estable, sistema apagado
+[18-09-2026 | 16:55:18] Temp=34.4°C  Hum=73.7%  => Ventilador encendido
+[18-09-2026 | 16:55:21] Temp=27.6°C  Hum=46.5%  => Todo estable, sistema apagado
+[18-09-2026 | 16:55:24] Temp=34.2°C  Hum=90.5%  => A/C + Deshumidificador encendido
+[18-09-2026 | 16:55:27] Temp=33.7°C  Hum=91.7%  => A/C + Deshumidificador encendido
+[18-09-2026 | 16:55:30] Temp=16.4°C  Hum=76.4%  => Calefacción + Deshumidificador encendido
+[18-09-2026 | 16:55:33] Temp=30.0°C  Hum=47.9%  => Ventilador encendido
+[18-09-2026 | 16:55:36] Temp=26.7°C  Hum=69.7%  => Todo estable, sistema apagado
+[18-09-2026 | 16:55:39] Temp=25.4°C  Hum=49.7%  => Todo estable, sistema apagado
+[18-09-2026 | 16:55:42] Temp=13.8°C  Hum=29.5%  => Calefacción + Humidificador encendido
+[18-09-2026 | 16:55:45] Temp=22.4°C  Hum=39.0%  => Todo estable, sistema apagado
+[18-09-2026 | 16:55:48] Temp=24.4°C  Hum=54.9%  => Todo estable, sistema apagado
+[18-09-2026 | 16:55:51] Temp=16.1°C  Hum=93.5%  => Calefacción + Deshumidificador encendido
+[18-09-2026 | 16:55:54] Temp=32.8°C  Hum=31.5%  => A/C + Humidificador encendido
+[18-09-2026 | 16:55:57] Temp=25.8°C  Hum=42.9%  => Todo estable, sistema apagado
+[18-09-2026 | 16:56:00] Temp=25.2°C  Hum=38.6%  => Todo estable, sistema apagado
+[18-09-2026 | 16:56:03] Temp=25.8°C  Hum=70.8%  => Todo estable, sistema apagado
+[18-09-2026 | 16:56:06] Temp=23.0°C  Hum=74.4%  => Todo estable, sistema apagado
+[18-09-2026 | 16:56:09] Temp=33.0°C  Hum=65.1%  => Ventilador encendido
+[18-09-2026 | 16:56:12] Temp=18.6°C  Hum=35.7%  => Todo estable, sistema apagado
+[18-09-2026 | 16:56:15] Temp=22.9°C  Hum=40.4%  => Todo estable, sistema apagado
+[18-09-2026 | 16:56:18] Temp=34.8°C  Hum=88.2%  => A/C + Deshumidificador encendido
+[18-09-2026 | 16:56:21] Temp=27.6°C  Hum=30.0%  => Humidificador encendido
+[18-09-2026 | 16:56:24] Temp=32.7°C  Hum=55.3%  => Ventilador encendido
+[18-09-2026 | 16:56:27] Temp=20.8°C  Hum=80.6%  => Deshumidificador encendido
+[18-09-2026 | 16:56:30] Temp=27.2°C  Hum=90.7%  => Deshumidificador encendido
+[18-09-2026 | 16:56:33] Temp=31.7°C  Hum=57.6%  => Ventilador encendido
+[18-09-2026 | 16:56:36] Temp=25.0°C  Hum=85.3%  => Deshumidificador encendido
+[18-09-2026 | 16:56:39] Temp=28.1°C  Hum=71.0%  => Todo estable, sistema apagado
+[18-09-2026 | 16:56:42] Temp=20.3°C  Hum=51.0%  => Todo estable, sistema apagado
+[18-09-2026 | 16:56:45] Temp=19.4°C  Hum=85.7%  => Deshumidificador encendido
+[18-09-2026 | 16:56:48] Temp=20.4°C  Hum=66.1%  => Todo estable, sistema apagado
+[18-09-2026 | 16:56:51] Temp=14.6°C  Hum=28.0%  => Calefacción + Humidificador encendido
+[18-09-2026 | 16:56:54] Temp=22.0°C  Hum=37.5%  => Todo estable, sistema apagado
+[18-09-2026 | 16:56:57] Temp=14.0°C  Hum=92.3%  => Calefacción + Deshumidificador encendido
+[18-09-2026 | 16:57:00] Temp=13.4°C  Hum=61.6%  => Calefacción encendido
+[18-09-2026 | 16:57:03] Temp=15.7°C  Hum=88.1%  => Calefacción + Deshumidificador encendido
+[18-09-2026 | 16:57:06] Temp=36.8°C  Hum=30.3%  => A/C + Humidificador encendido
+[18-09-2026 | 16:57:09] Temp=23.3°C  Hum=79.2%  => Deshumidificador encendido
+[18-09-2026 | 16:57:12] Temp=22.1°C  Hum=85.4%  => Deshumidificador encendido
+[18-09-2026 | 16:57:15] Temp=37.6°C  Hum=89.8%  => A/C + Deshumidificador encendido
+[18-09-2026 | 16:57:18] Temp=28.9°C  Hum=94.8%  => Deshumidificador encendido
+[18-09-2026 | 16:57:21] Temp=13.7°C  Hum=33.3%  => Calefacción + Humidificador encendido
+[18-09-2026 | 16:57:24] Temp=22.0°C  Hum=80.2%  => Deshumidificador encendido
+[18-09-2026 | 16:57:27] Temp=29.0°C  Hum=49.0%  => Todo estable, sistema apagado
+[18-09-2026 | 16:57:30] Temp=19.9°C  Hum=93.4%  => Deshumidificador encendido
+[18-09-2026 | 16:57:33] Temp=20.6°C  Hum=34.9%  => Humidificador encendido
+[18-09-2026 | 16:57:36] Temp=21.1°C  Hum=66.7%  => Todo estable, sistema apagado
+[18-09-2026 | 16:57:39] Temp=17.2°C  Hum=27.5%  => Humidificador encendido
+[18-09-2026 | 16:57:42] Temp=35.8°C  Hum=50.9%  => Ventilador encendido
+[18-09-2026 | 16:57:45] Temp=22.6°C  Hum=52.3%  => Todo estable, sistema apagado
+[18-09-2026 | 16:57:48] Temp=20.5°C  Hum=71.6%  => Todo estable, sistema apagado
+[18-09-2026 | 16:57:51] Temp=28.9°C  Hum=64.3%  => Todo estable, sistema apagado
+[18-09-2026 | 17:09:26] Temp=37.3°C  Hum=90.9%  => A/C + Deshumidificador encendido
+[18-09-2026 | 17:09:30] Temp=25.0°C  Hum=83.8%  => Deshumidificador encendido
+[18-09-2026 | 17:09:34] Temp=14.2°C  Hum=71.0%  => Calefacción encendido
+[18-09-2026 | 17:09:37] Temp=21.4°C  Hum=50.5%  => Todo estable, sistema apagado
+[18-09-2026 | 17:09:40] Temp=33.2°C  Hum=60.8%  => Ventilador encendido
+[18-09-2026 | 17:09:44] Temp=22.6°C  Hum=75.5%  => Deshumidificador encendido
+[18-09-2026 | 17:09:47] Temp=13.4°C  Hum=83.9%  => Calefacción + Deshumidificador encendido
+[18-09-2026 | 17:09:50] Temp=35.1°C  Hum=77.5%  => A/C + Deshumidificador encendido
+[18-09-2026 | 17:09:53] Temp=16.7°C  Hum=72.3%  => Calefacción encendido
+[18-09-2026 | 17:09:56] Temp=26.1°C  Hum=51.1%  => Todo estable, sistema apagado
+[18-09-2026 | 17:09:59] Temp=14.2°C  Hum=66.0%  => Calefacción encendido
+[18-09-2026 | 17:10:06] Temp=15.8°C  Hum=60.8%  => Calefacción encendido
+[18-09-2026 | 17:10:09] Temp=20.8°C  Hum=89.4%  => Deshumidificador encendido
+[18-09-2026 | 17:10:12] Temp=30.1°C  Hum=50.1%  => Ventilador encendido
+[18-09-2026 | 17:10:15] Temp=20.3°C  Hum=87.9%  => Deshumidificador encendido
+[18-09-2026 | 17:10:18] Temp=34.3°C  Hum=77.4%  => A/C + Deshumidificador encendido
+[18-09-2026 | 17:10:22] Temp=33.2°C  Hum=66.1%  => Ventilador encendido
+[18-09-2026 | 17:10:25] Temp=29.5°C  Hum=28.4%  => A/C + Humidificador encendido
+[18-09-2026 | 17:10:28] Temp=14.5°C  Hum=65.7%  => Calefacción encendido
+[18-09-2026 | 17:10:31] Temp=29.7°C  Hum=88.1%  => A/C + Deshumidificador encendido
+[18-09-2026 | 17:10:35] Temp=27.0°C  Hum=90.8%  => Deshumidificador encendido
+[18-09-2026 | 17:10:38] Temp=26.8°C  Hum=30.1%  => Humidificador encendido
+[18-09-2026 | 17:10:41] Temp=27.5°C  Hum=90.8%  => Deshumidificador encendido
+[18-09-2026 | 17:10:45] Temp=37.9°C  Hum=87.4%  => A/C + Deshumidificador encendido
+[18-09-2026 | 17:10:48] Temp=29.2°C  Hum=68.6%  => Ventilador encendido
+[18-09-2026 | 17:10:51] Temp=37.6°C  Hum=57.8%  => Ventilador encendido
+[18-09-2026 | 17:10:55] Temp=21.7°C  Hum=89.3%  => Deshumidificador encendido
+[18-09-2026 | 17:10:58] Temp=30.7°C  Hum=47.3%  => Ventilador encendido
+[18-09-2026 | 17:11:01] Temp=23.3°C  Hum=36.9%  => Todo estable, sistema apagado
+[18-09-2026 | 17:11:05] Temp=23.3°C  Hum=63.2%  => Todo estable, sistema apagado
+[18-09-2026 | 17:11:08] Temp=28.3°C  Hum=49.1%  => Todo estable, sistema apagado
+[18-09-2026 | 17:11:11] Temp=31.6°C  Hum=86.3%  => A/C + Deshumidificador encendido
+[18-09-2026 | 17:11:15] Temp=28.4°C  Hum=37.7%  => Todo estable, sistema apagado
